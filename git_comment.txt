@@ -1,0 +1,7 @@
+git init   ==> folder to repostry
+
+git status
+
+git add <filename.filetype>
+
+git commit -m "first version"

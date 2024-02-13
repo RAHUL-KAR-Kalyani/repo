@@ -6,9 +6,11 @@ git add <filename.filetype>
 
 git commit -m "first version"
 
-git add .
+git branch -M main
 
-git push
+git push -u origin main
+
+git add .
 
 git commit -m "second version"
 

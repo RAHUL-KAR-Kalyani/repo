@@ -2,6 +2,10 @@ git init   ==> folder to repostry
 
 git status
 
-git add <filename.filetype>
+git add file  ==> filename.file type
 
 git commit -m "first version"
+
+git commit -m "second version"
+
+

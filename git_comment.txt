@@ -16,6 +16,6 @@ git commit -m "second version"
 
 git add .
 
-git push
+git push ...
 
 git commit -m "last version"
